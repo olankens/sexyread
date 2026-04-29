@@ -152,51 +152,10 @@
 
 ### Mobile Preview
 
-<p><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/></p>
-<p><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/><img src="res/1x1.png" align="center" width="2%"/><img src="res/192x416.png" align="center" width="18.4%"/></p>
-
-### Mobile Preview
-
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 <p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 
-### Desktop Preview
-
-<table>
-  <tbody><tr>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
-  </tr></tbody>
-</table>
-
-### Mobile Preview
-
-<table>
-  <tbody><tr>
-    <td align="center" width="9999">
-      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
-    </td>
-    <td align="center" width="9999">
-      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
-    </td>
-    <td align="center" width="9999">
-      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
-    </td>
-    <td align="center" width="9999">
-      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
-    </td>
-    <td align="center" width="9999">
-      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
-    </td>
-  </tr></tbody>
-</table>
-
-### Instruction #1
+### Instruction
 
 ```python
 with (client := Client(input("enter television ip address: ").strip(), foolish=True, secured=True)):
@@ -219,3 +178,9 @@ with (client := Client(input("enter television ip address: ").strip(), foolish=T
     client.change_gamma_adjustment(GammaAdjustment.GAMMA_2_2)
     client.toggle_viewing_angle()
 ```
+
+### Contributors
+
+<p><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x192.png" align="center" width="18.75%"/></p>
