@@ -3,14 +3,27 @@
 
 <p align="center">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus.
-</p>&nbsp;
+</p>
 
-<hr><p align="center">
+<table><tr align="center"><td width="999" height="96">
   <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;
   <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-light.png" width="56"/></picture></a>&nbsp;
   <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;
   <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-light.png" width="56"/></picture></a>
-</p><hr>
+</td></tr></table>
+
+
+[//]: # (<hr><p align="center">)
+
+[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;)
+
+[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-light.png" width="56"/></picture></a>&nbsp;)
+
+[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;)
+
+[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-light.png" width="56"/></picture></a>)
+
+[//]: # (</p><hr>)
 
 ### Template Preview
 
