@@ -86,7 +86,12 @@
     <td align="center" width="9999">
       &nbsp;
       <p><img src="res/logo.png" align="center" width="128"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <h1>SEXYREAD</h1>
+      &nbsp;
     </td>
   </tr>
   <tr>
