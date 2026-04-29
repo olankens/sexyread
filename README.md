@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <td align="center" width="9999"><a href="#"><img src="res/github-sponsor.png" align="center"></a></td>
-    <td align="center" width="9999"><a href="#"><img src="res/kofi.png" align="center"></a></td>
-    <td align="center" width="9999"><a href="#"><img src="res/paypal.png" align="center"></a></td>
-    <td align="center" width="9999"><a href="#"><img src="res/polar.png" align="center"></a></td>
+    <td align="center" width="9999"><a href="#"><img src="res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>
+    <td align="center" width="9999"><a href="#"><img src="res/stack-kofi-dark.png" align="center" width="56"></a></td>
+    <td align="center" width="9999"><a href="#"><img src="res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>
+    <td align="center" width="9999"><a href="#"><img src="res/stack-kofi-dark.png" align="center" width="56"></a></td>
   </tr>
 </table>
 
@@ -46,4 +46,8 @@
   </tr></tbody>
 </table>
 
-<p><img src="res/1024x416.png" align="center" width="100%"/></p>
+[//]: # (<p><img src="res/1024x416.png" align="center" width="100%"/></p>)
+
+### Mobile Preview
+
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
