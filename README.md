@@ -94,9 +94,9 @@
   </tr>
   <tr><td align="center" width="9999">
     <p align="center">
-    <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="56"></picture>&nbsp;&nbsp;&nbsp;
-    <picture><source srcset="res/stack-paypal-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-paypal-light.png" align="center" width="56"></picture>&nbsp;&nbsp;&nbsp;
-    <picture><source srcset="res/stack-kofi-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-kofi-light.png" align="center" width="56"></picture>
+    <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="64"></picture>&nbsp;&nbsp;&nbsp;
+    <picture><source srcset="res/stack-paypal-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-paypal-light.png" align="center" width="64"></picture>&nbsp;&nbsp;&nbsp;
+    <picture><source srcset="res/stack-kofi-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-kofi-light.png" align="center" width="64"></picture>
     </p>
   </td></tr>
 </table>
