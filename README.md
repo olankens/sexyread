@@ -71,7 +71,7 @@
 
 [//]: # (```)
 
-
+<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
 
 <div align="center">
   <p><img src="res/logo.png" align="center" width="128"/></p>
@@ -131,3 +131,5 @@
     <td align="center"><a href="#"><img src="res/600x900.png" align="center"></a></td>
   </tr></tbody>
 </table>
+
+<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
