@@ -86,6 +86,7 @@
     <td align="center" width="9999">
       &nbsp;
       <p><img src="res/logo.png" align="center" width="128"/></p>
+      &nbsp;
     </td>
   </tr>
   <tr>
