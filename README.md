@@ -84,9 +84,7 @@
 <table>
   <tr>
     <td align="center" width="9999">
-      &nbsp;
-      <p><a href="#">WEBSITE</a> · <a href="#">DONATION</a> · <a href="#">DOCUMENTATION</a></p>
-      &nbsp;  
+      <p><a href="#">WEBSITE</a> · <a href="#">DONATION</a> · <a href="#">DOCUMENTATION</a></p> 
     </td>
   </tr>
 </table>
