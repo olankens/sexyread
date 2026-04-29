@@ -71,7 +71,7 @@
 
 [//]: # (```)
 
-<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
+<img src="res/1x1-dark.png" align="center" height="2" width="100%"/>
 
 <div align="center">
   <p><img src="res/logo.png" align="center" width="128"/></p>
