@@ -84,6 +84,7 @@
 <table>
   <tr>
     <td align="center" width="9999">
+      &nbsp;
       <p><img src="res/logo.png" align="center" width="128"/></p>
       <div id="toc">
         <ul style="list-style: none">
@@ -93,6 +94,7 @@
         </ul>
       </div>
       <p><mark>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</mark></p>
+      &nbsp;
     </td>
   </tr>
 </table>
