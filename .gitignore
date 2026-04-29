@@ -1,0 +1,10 @@
+# Related to JetBrains
+.idea/
+
+# Related to Node
+node_modules/
+package-lock.json
+
+# Related to Project
+res/raw/
+!res/raw/.gitkeep

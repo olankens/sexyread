@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@commitlint/cli": "^20",
+    "@commitlint/config-conventional": "^20",
+    "simple-git-hooks": "^2"
+  },
+  "scripts": {
+    "prepare": "npx simple-git-hooks"
+  },
+  "simple-git-hooks": {
+    "commit-msg": "npx --no -- commitlint --edit"
+  },
+  "commitlint": {
+    "extends": "@commitlint/config-conventional",
+    "rules": {
+      "type-enum": [2, "always", ["feat", "fix", "chore", "refactor"]],
+      "type-empty": [2, "never"],
+      "scope-empty": [2, "always"],
+      "scope-enum": [2, "never", []],
+      "subject-case": [2, "always", "sentence-case"],
+      "subject-min-length": [2, "always", 10],
+      "subject-max-length": [2, "always", 100]
+    }
+  }
+}
