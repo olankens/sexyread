@@ -1,13 +1,15 @@
-<p align="center"><img src="res/logo.png" align="center" width="128"/></p>
-<h1 align="center">SEXYREAD</h1>
+<p align="center"><img src="res/logo.png" align="" width="128"/></p>
 
-<table><tr><td>
-<p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
+
+<table><tr><td width="9999">
+  <h1 align="center">SEXYREAD</h1>
+  <p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
+  &nbsp;
 </td></tr></table>
 
-<hr>
+<table><tr><td width="9999">
   <p align="center"><a href="#"><img src="res/github-sponsor.png" align="center" width="64" height="64"/></a><img src="res/1x1.png" width="1.5625%"/><a href="#"><img src="res/kofi.png" align="center" width="64" height="64"/></a><img src="res/1x1.png" width="1.5625%"/><a href="#"><img src="res/paypal.png" align="center" width="64" height="64"/></a><img src="res/1x1.png" width="1.5625%"/><a href="#"><img src="res/polar.png" align="center" width="64" height="64"/></a></p>
-<hr>
+</td></tr></table>
 
 ### Template Preview
 
