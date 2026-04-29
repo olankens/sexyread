@@ -1,15 +1,15 @@
-<p align="center"><img src="res/logo.png" align="center" width="128"/></p>
+<p align="center"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/logo.png" align="center" width="128"/></p>
 <h1 align="center">SEXYREAD</h1>
 
 <p align="center">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus.
-</p>
+</p>&nbsp;
 
 <hr><p align="center">
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-horizontal-dark.png"><img src="res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-square-dark.png"><img src="res/stack-square-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-vertical-dark.png"><img src="res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-circle-dark.png"><img src="res/stack-circle-light.png" width="56"/></picture></a>
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-light.png" width="56"/></picture></a>&nbsp;
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-light.png" width="56"/></picture></a>
 </p><hr>
 
 ### Template Preview
