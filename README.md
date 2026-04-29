@@ -46,4 +46,4 @@
   </tr></tbody>
 </table>
 
-<p><img src="res/1024x416.png" width="100%"/></p>
+<p><img src="res/1024x416.png" align="center" width="100%"/></p>
