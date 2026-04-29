@@ -71,8 +71,6 @@
 
 [//]: # (```)
 
-<img src="res/1x1-dark.png" align="center" height="2" width="100%"/>
-
 <div align="center">
   <p><img src="res/logo.png" align="center" width="128"/></p>
   <h1>SEXYREAD</h1>
@@ -96,6 +94,15 @@
 
 
 [//]: # (<p><img src="res/1024x416.png" align="center" width="100%"/></p>)
+
+### Mobile Preview
+
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
+<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
+
+<p><img src="res/1x1-dark.png" align="" height="1" width="100%"/></p>
+
 
 ### Mobile Preview
 
@@ -131,5 +138,3 @@
     <td align="center"><a href="#"><img src="res/600x900.png" align="center"></a></td>
   </tr></tbody>
 </table>
-
-<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
