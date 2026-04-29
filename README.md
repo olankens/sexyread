@@ -21,7 +21,7 @@
 
 ### Template Preview
 
-<table>
+<table align="center">
   <tbody><tr>
     <td align="center" width="9999"><a href="#"><img src="res/600x900.png" align="center"></a></td>
     <td align="center" width="9999"><a href="#"><img src="res/600x900.png" align="center"></a></td>
