@@ -2,7 +2,7 @@
 <h1 align="center">SEXYREAD</h1>
 
 <table><tr><td width="9999">
-  <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
+  <p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus.</p>
 </td></tr></table>
 
 ### Template Preview
