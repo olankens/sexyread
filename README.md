@@ -10,7 +10,7 @@
 [//]: # (### Mobile Preview)
 
 [//]: # ()
-[//]: # (<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>)
+[//]: # (<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>)
 
 [//]: # ()
 [//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.)
@@ -72,17 +72,16 @@
 [//]: # (```)
 
 <div align="center">
-  <p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/logo.png" align="center" width="128"/></p>
+  <p><img src="res/logo.png" align="center" width="128"/></p>
   <h1>SEXYREAD</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
 </div>
 
 <table><tr><td align="center" width="9999">
   <p align="center">
-  <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="56"></picture>&nbsp;
-  <picture><source srcset="res/stack-circle-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-circle-light.png" align="center" width="56"></picture>&nbsp;
-  <picture><source srcset="res/stack-square-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-square-light.png" align="center" width="56"></picture>&nbsp;
-  <picture><source srcset="res/stack-circle-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-circle-light.png" align="center" width="56"></picture>
+  <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="56"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source srcset="res/stack-paypal-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-paypal-light.png" align="center" width="56"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source srcset="res/stack-kofi-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-kofi-light.png" align="center" width="56"></picture>
   </p>
 </td></tr></table>
 
@@ -90,13 +89,13 @@
 
 [//]: # (  <tr>)
 
-[//]: # (    <td align="center" width="9999"><a href="#"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>)
+[//]: # (    <td align="center" width="9999"><a href="#"><img src="res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>)
 
-[//]: # (    <td align="center" width="9999"><a href="#"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-kofi-dark.png" align="center" width="56"></a></td>)
+[//]: # (    <td align="center" width="9999"><a href="#"><img src="res/stack-kofi-dark.png" align="center" width="56"></a></td>)
 
-[//]: # (    <td align="center" width="9999"><a href="#"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>)
+[//]: # (    <td align="center" width="9999"><a href="#"><img src="res/stack-github-sponsors-dark.png" align="center" width="56"></a></td>)
 
-[//]: # (    <td align="center" width="9999"><a href="#"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-kofi-dark.png" align="center" width="56"></a></td>)
+[//]: # (    <td align="center" width="9999"><a href="#"><img src="res/stack-kofi-dark.png" align="center" width="56"></a></td>)
 
 [//]: # (  </tr>)
 
@@ -104,16 +103,16 @@
 
 ### Full-Width Preview
 
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1024x416.png" align="center" width="100%"/></p>
+<p><img src="res/1024x416.png" align="center" width="100%"/></p>
 
 ### Mobile Preview
 
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 
 ### Mobile Preview
 
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 
 ### Instruction #1
 
