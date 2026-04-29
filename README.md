@@ -79,7 +79,7 @@
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
 </div>
 
-<p><img src="res/1x1-dark.png" align="" height="1" width="100%"/></p>
+<p><img src="res/1x1-dark.png" align="center" height="1" width="100%"/></p>
 
 <table>
   <tr>
