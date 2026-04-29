@@ -159,6 +159,43 @@
 
 <p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 
+### Desktop Preview
+
+<table>
+  <tbody><tr>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+  </tr></tbody>
+  <tbody><tr>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+    <td align="center" width="9999"><a href=""><img src="res/1280x720.png" align="center"></a></td>
+  </tr></tbody>
+</table>
+
+### Mobile Preview
+
+<table>
+  <tbody><tr>
+    <td align="center" width="9999">
+      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
+    </td>
+    <td align="center" width="9999">
+      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
+    </td>
+    <td align="center" width="9999">
+      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
+    </td>
+    <td align="center" width="9999">
+      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
+    </td>
+    <td align="center" width="9999">
+      <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/192x416.png"><img src="res/192x416.png" align="center"/></picture></a>
+    </td>
+  </tr></tbody>
+</table>
+
 ### Instruction #1
 
 ```python
