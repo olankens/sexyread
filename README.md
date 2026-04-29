@@ -81,8 +81,6 @@
 
 [//]: # (</td></tr></table>)
 
-<h1 align="center">SEXYREAD</h1>
-
 <table>
   <tr>
     <td align="center" width="9999">
@@ -91,37 +89,25 @@
       &nbsp;
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td align="center">
-      &nbsp;
+      <h1>SEXYREAD</h1>
       <p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus, non rutrum augue finibus.</p>
       &nbsp;
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      &nbsp;<p>
-      <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;
-      <picture><source srcset="res/stack-paypal-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-paypal-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;
-      <picture><source srcset="res/stack-kofi-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-kofi-light.png" align="center" width="72"></picture>
-      </p>&nbsp;
-    </td>
-  </tr>
 </table>
 
-[//]: # (<table><tr><td align="center" width="9999">)
-
-[//]: # (  <p align="center">)
-
-[//]: # (  <picture><source srcset="res/stack-github-sponsors-dark.png" media="&#40;prefers-color-scheme: dark&#41;"><img src="res/stack-github-sponsors-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;)
-
-[//]: # (  <picture><source srcset="res/stack-paypal-dark.png" media="&#40;prefers-color-scheme: dark&#41;"><img src="res/stack-paypal-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;)
-
-[//]: # (  <picture><source srcset="res/stack-kofi-dark.png" media="&#40;prefers-color-scheme: dark&#41;"><img src="res/stack-kofi-light.png" align="center" width="72"></picture>)
-
-[//]: # (  </p>)
-
-[//]: # (</td></tr></table>)
+<table><tr><td align="center" width="9999">
+  <p align="center">
+  <picture><source srcset="res/stack-github-sponsors-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-github-sponsors-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source srcset="res/stack-paypal-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-paypal-light.png" align="center" width="72"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source srcset="res/stack-kofi-dark.png" media="(prefers-color-scheme: dark)"><img src="res/stack-kofi-light.png" align="center" width="72"></picture>
+  </p>
+</td></tr></table>
 
 [//]: # (<table>)
 
