@@ -81,17 +81,9 @@
 
 [//]: # (</td></tr></table>)
 
-<table>
-  <tr>
-    <td align="center" width="9999">
-      <p><a href="#">WEBSITE</a> · <a href="#">DONATION</a> · <a href="#">DOCUMENTATION</a></p> 
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-<p><img src="res/logo.png" align="center" width="128"/></p>
-<h1>SEXYREAD</h1>
+  <p><img src="res/logo.png" align="center" width="128"/></p>
+  <h1>SEXYREAD</h1>
 </div>
 
 <table>
