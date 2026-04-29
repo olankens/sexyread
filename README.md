@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src="res/logo.png" align="" width="192"/></p>
+<p><img src="res/logo.png" align="" width="128"/></p>
 <h1>SEXYREAD</h1><br>
 </div>
 
