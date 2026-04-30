@@ -25,10 +25,8 @@
     <td><img src="res/192x416.png" align="center"/></td>
     <td><img src="res/192x416.png" align="center"/></td>
     <td><img src="res/192x416.png" align="center"/></td>
-    <td><img src="res/192x416.png" align="center"/></td>
   </tr>
   <tr align="center">
-    <td><img src="res/192x416.png" align="center"/></td>
     <td><img src="res/192x416.png" align="center"/></td>
     <td><img src="res/192x416.png" align="center"/></td>
     <td><img src="res/192x416.png" align="center"/></td>
