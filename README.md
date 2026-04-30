@@ -21,6 +21,17 @@
 
 <table>
   <tr align="center">
-    <td><p><img src="res/192x416.png" align="center"/></p></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+  </tr>
+  <tr align="center">
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
+    <td><img src="res/192x416.png" align="center"/></td>
   </tr>
 </table>
