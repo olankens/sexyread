@@ -19,7 +19,8 @@
 
 ### Template Preview (2)
 
-<p>
-<img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="res/1x1-dark.png"><img src="res/1x1-light.png" align="center" height="2" width="100%"></picture><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/>
-</p>
+<table>
+  <tr align="center">
+    <td><p><img src="res/192x416.png" align="center"/></p></td>
+  </tr>
+</table>
