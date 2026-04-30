@@ -30,7 +30,13 @@
 
 # test
 
-<p><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><p><picture><source media="(prefers-color-scheme: dark)" srcset="res/1x1-dark.png"><img src="res/1x1-light.png" align="center" height="1" width="100%"></picture></p><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture></p>
+<p>
+  <picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture>
+</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="res/1x1-dark.png"><img src="res/1x1-light.png" align="center" height="1" width="100%"></picture></p>
+<p>
+  <picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture><picture><img src="res/1x1.png" align="center" width="1.5625%"/></picture><picture><img src="res/192x192.png" align="center" width="23.828125%"/></picture>
+</p>
 
 
 [//]: # (### Template Preview &#40;2&#41;)
