@@ -1,25 +1,9 @@
 <p align="center"><img src="res/logo.png" align="center" width="128"/></p>
 <h1 align="center">SEXYREAD</h1>
 
-<p align="center">
+<table><tr><td align="center" height="160" width="9999">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi urna turpis, placerat quis semper sed, dignissim vel dui. Aliquam luctus vel ante et sollicitudin. Nullam sapien tortor, elementum vitae orci a, ullamcorper luctus purus. Sed dignissim elementum eleifend. Aenean vestibulum nisi non elit cursus.
-</p>
-
-<table><tr><td align="center" height="80" width="9999">
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/kofi-symbol.png"><img src="res/kofi-symbol.png" align="center" width="56"/></picture></a>
 </td></tr></table>
-
-[//]: # (<table><tr><td align="center" height="80" width="9999">)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="res/stack-horizontal-dark.png"><img src="res/stack-horizontal-light.png" align="center" width="56"/></picture></a>)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="res/stack-square-dark.png"><img src="res/stack-square-light.png" align="center" width="56"/></picture></a>)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="res/stack-vertical-dark.png"><img src="res/stack-vertical-light.png" align="center" width="56"/></picture></a>)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="res/stack-circle-dark.png"><img src="res/stack-circle-light.png" align="center" width="56"/></picture></a>)
-
-[//]: # (</td></tr></table>)
 
 ## Template Preview
 
