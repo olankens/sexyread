@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/logo.png" align="center" width="128"/></p>
+<p align="center"><img src="res/logo.png" align="center" width="128"/></p>
 <h1 align="center">SEXYREAD</h1>
 
 <p align="center">
@@ -6,26 +6,21 @@
 </p>
 
 <table><tr align="center"><td width="999" height="96">
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;
-  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-light.png" width="56"/></picture></a>
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-horizontal-dark.png"><img src="res/stack-horizontal-light.png" align="center" width="56"/></picture></a>
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-square-dark.png"><img src="res/stack-square-light.png" align="center" width="56"/></picture></a>
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-vertical-dark.png"><img src="res/stack-vertical-light.png" align="center" width="56"/></picture></a>
+  <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="res/stack-circle-dark.png"><img src="res/stack-circle-light.png" align="center" width="56"/></picture></a>
 </td></tr></table>
 
+### Template Preview (1)
 
-[//]: # (<hr><p align="center">)
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
+<p><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/></p>
 
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-horizontal-light.png" width="56"/></picture></a>&nbsp;)
+### Template Preview (2)
 
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-square-light.png" width="56"/></picture></a>&nbsp;)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-vertical-light.png" width="56"/></picture></a>&nbsp;)
-
-[//]: # (  <a href="#"><picture><source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-dark.png"><img src="https://github.com/olankens/sexyread/raw/HEAD/res/stack-circle-light.png" width="56"/></picture></a>)
-
-[//]: # (</p><hr>)
-
-### Template Preview
-
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>
-<p><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/1x1.png" align="center" width="1.5625%"/><img src="https://github.com/olankens/sexyread/raw/HEAD/res/192x416.png" align="center" width="18.75%"/></p>
+<p>
+<img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="res/1x1-dark.png"><img src="res/1x1-light.png" height="1" width="100%"></picture>
+<img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/><img src="res/1x1.png" align="center" width="1.5625%"/><img src="res/192x416.png" align="center" width="18.75%"/>
+</p>
