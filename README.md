@@ -1,5 +1,6 @@
 <div align="center">
-  <p><img src="ICON.svg" align="center" width="128"/></p>
+  <!--<p><img src="ICON.svg" align="center" width="128"/></p>-->
+  <p><img src="https://github.com/olankens/sexyread/raw/HEAD/ICON.svg" align="center" width="128"/></p>
   <h1>SEXYREAD</h1>
 </div>
 
