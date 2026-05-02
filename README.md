@@ -4,9 +4,9 @@
 </div>
 
 <table><tr><td align="center" width="9999">
-  <p align="center">
+  &nbsp;<p align="center">
     <a href="#">Website</a> | <a href="#">Documentation</a> | <a href="#">Donate</a>
-  </p>
+  </p>&nbsp;
 </td></tr></table>
 
 <table><tr><td align="center" width="9999">
