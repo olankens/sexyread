@@ -6,7 +6,7 @@
 
 <table><tr><td align="center" height="72" width="9999">
   <p align="center">
-    <a href="#">Website</a> | <a href="#">Documentation</a> | <a href="#">Donate</a>
+    <a href="#">Website</a> · <a href="#">Documentation</a> · <a href="#">Donate</a>
   </p>
 </td></tr></table>
 
@@ -16,9 +16,50 @@
   </p>
 </td></tr></table>
 
+<!--
+(504/1024)*100 = 49.21875
+(244/1024)*100 = 23.828125
+(192/1024)*100 = 23.828125
+(016/1024)*100 = 1.5625
+-->
+
 ### Feature List
 
-#### 2x1 Feature Row
+#### 2x1 Feature Section
+
+<p><img src="https://placehold.co/504x416/FDE68A/FDE68A" width="49.21875%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/504x416/FDE68A/FDE68A" width="49.21875%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
+
+#### 4x1 Feature Section
+
+<p><img src="https://placehold.co/244x416/FDE68A/FDE68A" width="23.828125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/244x416/FDE68A/FDE68A" width="23.828125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/244x416/FDE68A/FDE68A" width="23.828125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/244x416/FDE68A/FDE68A" width="23.828125%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
+
+#### 5x1 Feature Section
+
+<p><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
+
+#### 3x1 Special Section
+
+<p><img src="https://placehold.co/608x416/FDE68A/FDE68A" width="59.375%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
+
+#### 4x1 Special Section
+
+<p><img src="https://placehold.co/400x416/FDE68A/FDE68A" width="39.0625%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/192x416/FDE68A/FDE68A" width="18.75%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
+
+#### 8x1 Special Section
+
+<p><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/114x114/FDE68A/FDE68A" width="11.1328125%"/></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim sagittis, vehicula quam non, consectetur est. Aenean rhoncus tellus turpis. Integer consequat mattis molestie.
 
 ### Catalog List
 
