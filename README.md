@@ -4,16 +4,16 @@
   <h1>SEXYREAD</h1>
 </div>
 
-<table><tr><td align="center" width="9999">
-  &nbsp;<p align="center">
+<table><tr><td align="center" height="72" width="9999">
+  <p align="center">
     <a href="#">Website</a> | <a href="#">Documentation</a> | <a href="#">Donate</a>
-  </p>&nbsp;
+  </p>
 </td></tr></table>
 
-<table><tr><td align="center" width="9999">
-  &nbsp;<p>
+<table><tr><td align="center" height="128" width="9999">
+  <p>
     Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.
-  </p>&nbsp;
+  </p>
 </td></tr></table>
 
 ### Feature List
