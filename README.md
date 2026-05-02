@@ -3,8 +3,12 @@
   <h1>SEXYREAD</h1>
 </div>
 
+<p align="center">
+  <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DONATE</a>
+</p>
+
 <table><tr><td align="center" width="9999">
-  <p>
+  <p align="center">
     <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DONATE</a>
   </p>
 </td></tr></table>
