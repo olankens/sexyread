@@ -23,8 +23,6 @@
 (016/1024)*100 = 1.5625
 -->
 
-### Mobile Preview
-
 <table>
   <tbody><tr>
     <td align="center" width="9999"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center"></picture></td>
@@ -37,9 +35,7 @@
 
 ### Mobile Preview
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture>
-<img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture></p>
 
 ### Desktop Preview
 
