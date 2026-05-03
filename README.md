@@ -23,6 +23,19 @@
 (016/1024)*100 = 1.5625
 -->
 
+### Mobile Preview
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mobile-dark.png"><img src="assets/mobile-light.png" align="center" width="18.75%"></picture></p>
+
+### Watch Preview
+
+<!--
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture>
+<img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/>
+-->
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><picture><source media="(prefers-color-scheme: dark)" srcset="assets/watch-dark.png"><img src="assets/watch-light.png" align="center" width="18.75%"></picture></p>
+
 ### A. 2x1 Feature Section
 
 <p><img src="https://placehold.co/504x416/FDE68A/FDE68A" width="49.21875%"/><img src="https://placehold.co/1x1/transparent/transparent/png" width="1.5625%"/><img src="https://placehold.co/504x416/FDE68A/FDE68A" width="49.21875%"/></p>
